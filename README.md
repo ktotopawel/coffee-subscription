@@ -1,5 +1,7 @@
 # coffee-subscription
 
+A simple website for a fake coffee subscription service.
+
 Images authors: 
 1. Photo by Juan Pablo Serrano  from Pexels: https://www.pexels.com/photo/shallow-focus-photo-of-coffee-beans-894695/
 2. Photo by Og Mpango from Pexels: https://www.pexels.com/photo/unrecognizable-black-farmer-picking-cherries-from-tree-4090605/
