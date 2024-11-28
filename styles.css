@@ -6,6 +6,7 @@ body {
     background-color: #E7E7E7;
     padding: 0;
     margin: 0;
+    width: 100%;
 }
 
 .header {
@@ -96,3 +97,82 @@ h2 {
     font-weight: 600;
 }
 
+.offer-div {
+    display: flex;
+    justify-content: space-around;
+    padding: 32px;
+    gap: 16px;
+    flex-wrap: wrap;
+}
+
+.offer-item {
+    width: 250px;
+    height: auto;
+    flex: none;
+    text-align: center;
+    font-size: 18px;
+}
+
+.offer-item img {
+    object-fit: cover;
+    display: block;
+    width: 250px;
+    height: auto;
+    border: 3px solid #63372C;
+    border-radius: 15px;
+    box-shadow: 0 0 10px black;
+}
+
+.quote {
+    background-color: #D5CFE1;
+    text-align: justify;
+    padding: 2em 20%;
+    color: #262322;
+}
+
+.author {
+    text-align: right;
+    font-weight: 500;
+    margin-top: -1em;
+}
+
+.subscription {
+    display: flex;
+    background-color:#63372C;
+    color: #E7E7E7;
+    padding: 2em 100px;
+    margin: 42px 58px;
+    border-radius: 15px;
+    justify-content: space-between;
+    gap: 25px;
+}
+
+.sub-h {
+    font-weight: 600;
+    font-size: 22px;
+}
+.sub-sec {
+    font-size: 16px;
+    font-style: italic;
+}
+
+.subscription button {
+    background-color: #63372C;
+    border: 3px solid #E7E7E7;
+    color: #E7E7E7;
+    font-size: 18px;
+    font-weight: 600;
+    border-radius: 15px;
+    padding: 0.5em 2em;
+    margin-left: auto;
+    align-self: flex-end;
+    text-wrap: nowrap;
+}
+
+.footer {
+    background-color: #262322;
+    text-align: center;
+    color: #E7E7E7;
+    font-size: 12px;
+    padding: 1em 0;
+}
