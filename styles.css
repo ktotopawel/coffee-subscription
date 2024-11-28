@@ -1,0 +1,98 @@
+body {
+    display: flex;
+    flex-direction: column;
+    font-family: Parkinsans;
+    color: #63372C;
+    background-color: #E7E7E7;
+    padding: 0;
+    margin: 0;
+}
+
+.header {
+    display: flex;
+    background-color: #262322 ;
+    padding: 2em;
+    align-items: center;
+    gap: 32px;
+    color: #D5CFE1
+}
+
+.logo {
+    font-size: 32px;
+    font-weight: 900;
+}
+
+.head-links {
+    display: flex;
+    list-style-type: none;
+    margin-left: auto;
+    gap: 20px;
+}
+
+.link {
+    font-size: 18px;
+}
+
+.link a {
+    text-decoration: none;
+    color: #E7E7E7;
+}
+
+.hero-div {
+    background-color: #262322;
+    display: flex;
+    justify-content: center;
+    padding: 60px;
+    align-items: center;
+    gap: 24px;
+}
+
+.hero-desc {
+    display: flex;
+    flex-direction: column;
+    width: 600px;
+    max-height: 100%;
+}
+
+.hero {
+    font-size: 48px;
+    font-weight: 600;
+    color: #C97D60;
+}
+
+.desc {
+ font-size: 18px;
+ color: #E7E7E7;
+}
+
+.hero-desc button {
+    align-self: flex-start;
+    background-color: #C97D60;
+    color: #262322;
+    font-weight: 600;
+    border: none;
+    padding: 0.5em 1.5em;
+    font-size: 18px;
+    border-radius: 10px;
+}
+
+.coffee {
+    min-height: 324px;
+    object-fit: cover;
+    align-self: stretch;
+    border-radius: 10px;
+    box-shadow: 0 0 50px 1px black;
+}
+
+.flex1 {
+ flex: 1 1 0px;
+ max-width: 33%;
+ min-width: 300px;
+}
+
+h2 {
+    text-align: center;
+    font-size: 24px;
+    font-weight: 600;
+}
+
