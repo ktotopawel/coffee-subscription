@@ -2,6 +2,8 @@
 
 A simple website for a fake coffee subscription service.
 
+Link to the website: https://ktotopawel.github.io/coffee-subscription/
+
 Images authors: 
 1. Photo by Juan Pablo Serrano  from Pexels: https://www.pexels.com/photo/shallow-focus-photo-of-coffee-beans-894695/
 2. Photo by Og Mpango from Pexels: https://www.pexels.com/photo/unrecognizable-black-farmer-picking-cherries-from-tree-4090605/
